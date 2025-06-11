@@ -1,0 +1,24 @@
+# Ignore node modules
+node_modules/
+
+# Ignore environment variable files
+.env
+
+# Ignore logs
+logs/
+*.log
+npm-debug.log*
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore OS files
+*.swp
+*.swo
+
+# Optional: coverage reports (if using testing tools)
+coverage/
